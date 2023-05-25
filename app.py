@@ -128,7 +128,7 @@ def main():
     # -------------------------- RTSP/HTTPS ------------------------------
     if input_source == "RTSP/HTTPS":
         
-        rtsp_input = st.sidebar.text_input("Video link", "https://www.youtube.com/watch?v=zu6yUYEERwA")
+        rtsp_input = st.sidebar.text_input("Video link")
 
         if st.sidebar.button("Run"):
     
