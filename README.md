@@ -10,6 +10,12 @@ streamlit run app.py
 ```
 5. Access the web app on "localhost:8501"
 
+## Expected result
+After running, this is what you should see on the terminal:
+![terminal](./images/terminal.jpg)
+And this is a view of the webapp running with the local video option:
+![webapp](./images/webapp.jpg)
+
 ## References
 1. [Official YOLOv7 repo](https://github.com/WongKinYiu/yolov7)
 2. [Streamlit dashboard](https://github.com/SahilChachra/Video-Analytics-Dashboard)
