@@ -14,6 +14,7 @@ streamlit run app.py
 After running, this is what you should see on the terminal:
 ![terminal](./images/terminal.jpg)
 \
+\
 And this is a view of the webapp running with the local video option:
 ![webapp](./images/webapp.jpg)
 
